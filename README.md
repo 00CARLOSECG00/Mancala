@@ -53,7 +53,7 @@ Cada turno se verá algo así en la consola:
 ![image](https://github.com/user-attachments/assets/26435898-8c26-4bde-92a6-5222190d9c4b)
 
 
-## 📂 Estructura del Código
+## Estructura del Código
 
 El juego se organiza en una clase `Mancala`, con los siguientes métodos principales:
 
@@ -86,7 +86,7 @@ Retorna el nombre del jugador ganador o "Empate" en caso de igualdad.
 
 ---
 
-## 🧠 Variables Clave
+## Variables Clave
 
 - `board`: Lista de 14 posiciones:
   - `0-5`: Pozos del jugador 1
